@@ -6,3 +6,8 @@ My greatest passion in life is to build a system that connects with people aroun
 2. [Web Application for reading and publishing blogs](https://project-blooog.vercel.app/)
 3. [Single Vendor e-Commerce Web Application](https://commerce-fox.vercel.app/)
 3. [Official Website of Rabina Limbu](https://www.rabinalimbu.com.np/)
+
+# Hobbies
+
+1. Cubing
+  [World Cube Association Profile](https://www.worldcubeassociation.org/persons/2017PHEU01)
