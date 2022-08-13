@@ -9,5 +9,6 @@ My greatest passion in life is to build a system that connects with people aroun
 
 # Hobbies
 
-1. Cubing
-  [World Cube Association Profile](https://www.worldcubeassociation.org/persons/2017PHEU01)
+- Cubing: [Check my World Cube Association(WCA) Profile](https://www.worldcubeassociation.org/persons/2017PHEU01)
+- Chess: [Lichess Profile](https://lichess.org/@/suraj_pheudin)
+- Writing [Check Songs that I Wrote](https://www.youtube.com/watch?v=r7H8kocz0-o&list=PLAHqIVBNigc-guVX99WoBb6IAYloSqsAT)
