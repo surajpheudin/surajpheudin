@@ -3,7 +3,7 @@ My greatest passion in life is to build a system that connects with people aroun
 
 # Live Projects
 1. [Doorway](http://doorway.com.np/)
-2. [My Official Website](https://www.surajpheudin.com.np/)
+2. [My Official Website](https://www.surajpheudin.com/)
 3. [Web Application for reading and publishing blogs](https://project-blooog.vercel.app/)
 4. [Single Vendor e-Commerce Web Application](https://commerce-fox.vercel.app/)
 5. [Official Website of Rabina Limbu](https://www.rabinalimbu.com.np/)
