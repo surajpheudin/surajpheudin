@@ -14,8 +14,9 @@ My greatest passion in life is to build a system that connects with people aroun
 2. [@surajpheudin/react-markdown](https://www.npmjs.com/package/@surajpheudin/react-markdown)
 
 # Articles
-1. [Difference between Var, Let and Const in Javascript](https://www.surajpheudin.com.np/blogs/61e29d311524b21aa096a500)
-2. [JavaScript Callback Functions – What are Callbacks in JS and How to Use Them](https://www.surajpheudin.com.np/blogs/630f6425b53e88000487e24c)
+1. [Keeping Your Calm: A Guide to Control Your Anger](https://www.surajpheudin.com/articles/keeping-your-calm-a-guide-to-control-your-anger)
+2. [Difference between Var, Let and Const in Javascript](https://www.surajpheudin.com/articles/difference-between-var-let-and-const-in-javascript)
+3. [JavaScript Callback Functions – What are Callbacks in JS and How to Use Them](https://www.surajpheudin.com/articles/javascript-callback-functions)
 
 
 # Hobbies
