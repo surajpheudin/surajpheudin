@@ -1,10 +1,5 @@
 # Introduction
-My greatest passion in life is to build a system that connects with people around the globe and I also want to help the community with my programming knowledge in any way I can. I am always eager to be challenged to grow and further improve my skills in both scientific and technical fields. 
-
-# Live Projects
-1. [Rubiks Memo](https://rubiks-memo.surajpheudin.com)
-2. [Instant Chess](https://instantchess.org/)
-3. [My Official Website](https://www.surajpheudin.com/)
+I am always eager to be challenged to grow and further improve my skills in both scientific and technical fields. 
 
 # Open Source Projects
 1. [create-withstyle](https://www.npmjs.com/package/create-withstyle)
@@ -18,7 +13,6 @@ My greatest passion in life is to build a system that connects with people aroun
 
 
 # Hobbies
-
 - Cubing: [Check my World Cube Association(WCA) Profile](https://www.worldcubeassociation.org/persons/2017PHEU01)
 - Chess: [Chess.com Profile](https://www.chess.com/member/suraj_pheudin)
 - Writing [Check Songs that I Wrote](https://www.youtube.com/@SurajPheudinMusic)
