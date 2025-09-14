@@ -1,6 +1,3 @@
-# Introduction
-I am always eager to be challenged to grow and further improve my skills in both scientific and technical fields. 
-
 # Open Source Projects
 1. [flashapi](https://github.com/surajpheudin/flashapi)
 2. [create-withstyle](https://www.npmjs.com/package/create-withstyle)
